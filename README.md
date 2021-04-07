@@ -9,3 +9,5 @@ We want to explore the effectivenss of social distancing, how active people are,
 - Government of Canada's Weather Data https://climate.weather.gc.ca/historical_data/search_historic_data_e.html
 - https://climate-change.canada.ca/climate-data/#/monthly-climate-summaries
 - World Vacination progress https://www.kaggle.com/gpreda/covid-world-vaccination-progress
+- canada vacination progress https://health-infobase.canada.ca/covid-19/vaccine-administration/
+- ontario vacination progress https://health-infobase.canada.ca/covid-19/vaccine-administration/
