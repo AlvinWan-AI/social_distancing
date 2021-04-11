@@ -4,7 +4,13 @@ We want to explore the effectivenss of social distancing, how active people are,
 
 ## Data Sources
 
-Do Ontario first!
+## What to do next
+- Choose Ontario only
+- Use one the of weather data in Ontario (anything works)
+- Find COVID data for Ontario
+- (optional) Find population and population/density
+- Make Tableau plots/tables and update in Whatsapp
+- 
 
 - Google COVID-19 Community Mobility Reports https://www.google.com/covid19/mobility/
 - Canada COVID-19 Cases https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
@@ -23,3 +29,4 @@ Do Ontario first!
 - make a graph and send it whatsapp
 - Sherlock to make MySQL DB
 - Tuesday meeting at 5pm
+
