@@ -4,7 +4,7 @@ We want to explore the effectivenss of social distancing, how active people are,
 
 ## Data Sources
 
-Do toronto first!
+Do Ontario first!
 
 - Google COVID-19 Community Mobility Reports https://www.google.com/covid19/mobility/
 - Canada COVID-19 Cases https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
