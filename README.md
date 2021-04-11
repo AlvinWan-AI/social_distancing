@@ -16,5 +16,10 @@ Do Ontario first!
 - https://data.ontario.ca/dataset/covid-19-vaccine-data-in-ontario/resource/8a89caa9-511c-4568-af89-7f2174b4378c
 - (dont use) apple mobility data https://covid19.apple.com/mobility
 
-# key metric formula
+## key metric formula
 - -1 times everything except 1 times going home
+
+## Meeting
+- make a graph and send it whatsapp
+- Sherlock to make MySQL DB
+- Tuesday meeting at 5pm
