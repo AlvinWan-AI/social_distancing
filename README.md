@@ -16,6 +16,7 @@ We want to explore the effectivenss of social distancing, how active people are,
 - Google COVID-19 Community Mobility Reports https://www.google.com/covid19/mobility/
 - Canada COVID-19 Cases https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
 - Government of Canada's Weather Data https://climate.weather.gc.ca/historical_data/search_historic_data_e.html
+- Ontario covid cases https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario/resource/ed270bb8-340b-41f9-a7c6-e8ef587e6d11
 - https://climate-change.canada.ca/climate-data/#/monthly-climate-summaries
 - (dont use) World Vacination progress https://www.kaggle.com/gpreda/covid-world-vaccination-progress
 - (dont use) canada vacination progress https://health-infobase.canada.ca/covid-19/vaccine-administration/
