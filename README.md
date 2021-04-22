@@ -9,6 +9,7 @@ We want to explore the effectivenss of social distancing, how active people are,
 - ontario lockdown timeline info https://globalnews.ca/news/6859636/ontario-coronavirus-timeline/
 
 ## Data Cleaning
-
+- All files that begin with "ON_" are cleaned files and ready for next steps. 
 
 ## Machine Learning Feature Selection
+- "All in one.ipynb" contains all feature selection algorithm, as well as a pearson correlation chart. 
