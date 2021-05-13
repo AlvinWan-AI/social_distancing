@@ -1,6 +1,7 @@
 # Social Distancing Analysis
 We want to explore the effectivenss of social distancing, how active people are, and what the driving forces behind their social distancing decisions are in the Ontario, Canada.
 
+This is a Python, MySQL, Tableau project. Python is used to clean, process raw data, and conduct feature engineering. After these initial works, a MySQL database with cleaned data is built for storage purpose. Finally, an [interactive Tableau storyboard](https://public.tableau.com/shared/8ZYP78GZM?:display_count=y&:origin=viz_share_link) is built for presentation. 
 
 ## Data Sources
 - Google COVID-19 Community Mobility Reports https://www.google.com/covid19/mobility/
